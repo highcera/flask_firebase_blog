@@ -13,7 +13,7 @@ def index():
         user = "Login"   
     return render_template("index.html", user = user)
 
-@app.route("/list")
+@app.route("/post_list")
 def post_list(): 
     post_list = DB.post_list()
 
