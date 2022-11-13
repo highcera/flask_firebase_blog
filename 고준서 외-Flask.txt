@@ -6,14 +6,14 @@
    h1+ol>li*3 <tab>
    lorem - 샘플 텍스트
    전체선택 <tab> or <shft><tab>
-   <ctrl>/   <ctrl><shft>/
-   <ctrl>F   <ctrl>H
+   주석한줄 <ctrl>/   주석여러줄 <ctrl><shft>/
+   찾기 <ctrl>F       바꾸기 <ctrl>H
    
    <ctrl>P 파일로 이동 검색, 최근 사용 파일
    돋보기 화일 검색 가능
 
    화일>기본설정>설정> font size
-   word wrap off → on
+   긴줄 여러줄로 표시 word wrap off → on
 
    * layout 변경 화일명 탭 드래그
    * 보기>모양>기본사이드바  <ctrl>B
@@ -28,7 +28,19 @@ Terminal
 버젼관리 : git
 https://seomal.com/map/1/138
 
-■  웹개발 플러스 2주차
+■ [고준서] Flask X Firebase 블로그 만들기
+파이썬과 파이어베이스로 커뮤니티 사이트 만들기
+https://www.youtube.com/playlist?list=PLqIc89sXpwUCjwzRImFjO2UL8lBopRajj
+
+
+파이어베이스 강의를 안 들었다면?
+https://youtu.be/cqxqsTd3X20
+
+Flask의 기초가 없다면?
+https://youtu.be/hsfibrhGFiM
+
+
+■ [귀찮Lee] 웹개발 플러스 2주차
 https://velog.io/@gwichanlee/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%94%8C%EB%9F%AC%EC%8A%A4-2%EC%A3%BC%EC%B0%A8
 
 ◎ 플라스크로 멀티페이지 사이트 만들기
